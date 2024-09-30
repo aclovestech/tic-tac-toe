@@ -1,4 +1,4 @@
-# App #1: Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 ## Reference(s):
 
